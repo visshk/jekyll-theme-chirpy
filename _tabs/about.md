@@ -3,16 +3,8 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
-# Resume
-## Vishwajeet Kumar
-* Linkedin: [https://www.linkedin.com/in/vishwajeetk1160/](https://www.linkedin.com/in/vishwajeetk1160/)
-
 ## Summary
-#### My name is Vishwajeet Kumar and I work as DevOps Engineer at KPMG Ignition Tokyo. I am dedicated to implementing and improving DevOps practices within KIT, enabling faster delivery of high-quality software products while ensuring security and stability
+#### My name is [Vishwajeet Kumar](https://www.linkedin.com/in/vishwajeetk1160/) and I work as DevOps Engineer at KPMG Ignition Tokyo. I am dedicated to implementing and improving DevOps practices within KIT, enabling faster delivery of high-quality software products while ensuring security and stability
 
 ## Work Experience
 1. __KPMG Ignition Tokyo (*May 2022 - Present*)__
