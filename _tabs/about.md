@@ -13,20 +13,25 @@ order: 4
     * Diagnosed and contributed fixes to problems occurring in workflow automation and CI/CD pipelines. Maintained a strict GitOps model
     * Utilized modern Microsoft tools such as Powershell and ARM templates to maintain infrastructure solutions as IaC
     * Manage critical alerts for various applications. Respond in service incidents and help in the investigation. 
-    * Responsible for creating and maintaining standards for developers around security and good development practices, [ISO 27017](https://en.wikipedia.org/wiki/ISO/IEC_27017) certified team
+    * Responsible for creating and maintaining standards for developers around security and good development practices, [ISO 27017](https://en.wikipedia.org/wiki/ISO/IEC_27017) and [ISO 27001](https://en.wikipedia.org/wiki/ISO/IEC_27001) certified team
 2. __Accenture Japan (*Jan 2021 - May 2022*)__
     * Developed multiple IaC (Infrastructure as Code) deliverables for pharmaceutical industry client. Created CloudFormation templates for AWS CodePipeline, VPC, EC2, Containers and Lambda.
     * Deployed and tested the developed IaC templates for security vulnerabilities.
     * Took responsibilities as Admin of AWS account. Created/maintained users, deployed encryption keys and storage policies in the AWS account.
 
-## Certifications
+## Active Certifications
 * AWS Certified Solutions Architect Associate
 * AWS Certified SysOps Administrator Associate
 * AWS Certified Developer Associate
-* Microsoft Azure Fundamentals
+* Microsoft Certified: Azure Fundamentals
+* Microsoft Certified: Security, Compliance, and Identity Fundamentals
 * Google Cloud Digital Leader
 
 ## Education
 * Indian Institute of Technology Kharagpur
     * Masters in Mathematics and Computing (2020)
     * Bachelors in Mathematics and Computing (2018)
+
+## Publication
+* ICASSP 2020
+    * [Variational Student: Learning Compact And Sparser Networks In Knowledge Distillation Framework](https://cmsworkshops.com/ICASSP2020/Papers/ViewPaper.asp?PaperNum=4759)
