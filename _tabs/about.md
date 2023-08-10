@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 ## Summary
-#### My name is [Vishwajeet Kumar](https://www.linkedin.com/in/vishwajeetk1160/) and I work as DevOps Engineer at [KPMG Ignition Tokyo](https://kpmg.com/jp/en/home/about/kit.html). I am dedicated to implementing and improving DevOps practices within KIT, enabling faster delivery of high-quality software products while ensuring security and stability
+#### My name is [Vishwajeet Kumar](https://www.linkedin.com/in/vishwajeetk1160/) and I work at [KPMG Ignition Tokyo](https://kpmg.com/jp/en/home/about/kit.html). I am dedicated to implementing and improving DevOps practices within KIT, enabling faster delivery of high-quality software products while ensuring security and stability.
 
 ## Work Experience
 1. __KPMG Ignition Tokyo (*May 2022 - Present*)__
@@ -35,3 +35,5 @@ order: 4
 ## Publication
 * ICASSP 2020
     * [Variational Student: Learning Compact And Sparser Networks In Knowledge Distillation Framework](https://cmsworkshops.com/ICASSP2020/Papers/ViewPaper.asp?PaperNum=4759)
+
+> **_NOTE:_**  Opinions expressed in this blog are solely my own and do not express the views or opinions of my employer.
