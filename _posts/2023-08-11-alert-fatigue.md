@@ -1,7 +1,8 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: Alert Fatigue
+date: 2023-08-11 02:20:00 +/-TTTT
+categories: [SRE, ALERTS]
+tags: [sre]
 ---
 
 IDC reports that 30% of alerts are ignored by employees working in 1500-5000 member size firm. Alert fatigue is real and a growing problem. [Reference](https://www.criticalstart.com/resources/in-cybersecurity-every-alert-matters/)
