@@ -8,12 +8,14 @@ order: 4
 
 ## Work Experience
 1. __KPMG Ignition Tokyo (*May 2022 - Present*)__
-    * Contributed to the maintenance and development of a landing platform for running business-critical containerized applications used by KPMG Japan
+    * Part of 4 member DevOps team, responsible for deploying/maintaining infrastructure for applications hosted on the platform. (ISO [27001](https://en.wikipedia.org/wiki/ISO/IEC_27001), [27017](https://en.wikipedia.org/wiki/ISO/IEC_27017) certified team)
+    * Contributed to development and maintenance of landing platform for running business-critical containerized applications used by KPMG member firms
+    * Designed and contributed fixes to workflow automation and CI/CD pipelines using GitOps
     * Work in DevOps team, responsible for maintaining infrastructure for multiple applications hosted on the platform
     * Diagnosed and contributed fixes to problems occurring in workflow automation and CI/CD pipelines. Maintained a strict GitOps model
     * Utilized modern Microsoft tools such as Powershell and ARM templates to maintain infrastructure solutions as IaC
-    * Manage critical alerts for various applications. Respond in service incidents and help in the investigation. 
-    * Responsible for creating and maintaining standards for developers around security and good development practices, [ISO 27017](https://en.wikipedia.org/wiki/ISO/IEC_27017) and [ISO 27001](https://en.wikipedia.org/wiki/ISO/IEC_27001) certified team
+    * Monitor and manage critical alerts for hosted applications. Respond to service incidents and perform audit and investigation
+    * Enforced monitoring and security protocols related to access policies, secret management, and overall security posture for the platform
 2. __Accenture Japan (*Jan 2021 - May 2022*)__
     * Developed multiple IaC (Infrastructure as Code) deliverables for pharmaceutical industry client. Created CloudFormation templates for AWS CodePipeline, VPC, EC2, Containers and Lambda.
     * Deployed and tested the developed IaC templates for security vulnerabilities.
