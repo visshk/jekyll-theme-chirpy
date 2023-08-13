@@ -11,8 +11,6 @@ My name is [Vishwajeet Kumar](https://www.linkedin.com/in/vishwajeetk1160/) and 
     * Part of 4 member DevOps team, responsible for deploying/maintaining infrastructure for applications hosted on the platform. (ISO [27001](https://en.wikipedia.org/wiki/ISO/IEC_27001), [27017](https://en.wikipedia.org/wiki/ISO/IEC_27017) certified team)
     * Contributed to development and maintenance of landing platform for running business-critical containerized applications used by KPMG member firms
     * Designed and contributed fixes to workflow automation and CI/CD pipelines using GitOps
-    * Work in DevOps team, responsible for maintaining infrastructure for multiple applications hosted on the platform
-    * Diagnosed and contributed fixes to problems occurring in workflow automation and CI/CD pipelines. Maintained a strict GitOps model
     * Utilized modern Microsoft tools such as Powershell and ARM templates to maintain infrastructure solutions as IaC
     * Monitor and manage critical alerts for hosted applications. Respond to service incidents and perform audit and investigation
     * Enforced monitoring and security protocols related to access policies, secret management, and overall security posture for the platform
